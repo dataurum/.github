@@ -1,0 +1,2 @@
+# Dataurum
+Dataurum is an identity plane for databases. It provides organizations with the tools they need to transition towards a zero trust approach when accessing databases. By using strong and verifiable identities for individuals, workloads, and service accounts, our solution allows database administrators, security compliance officers, application development and devops teams, secure access to databases based on short lived certificates or credentials that are auditable, attested, and cryptographically verifiable. 
